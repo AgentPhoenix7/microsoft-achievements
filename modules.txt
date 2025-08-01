@@ -4,3 +4,5 @@ https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/VJFSR9HM?shari
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/H75EX248?sharingId=A3E9B970BEA8AEE
 3. Introduction to GitHub's products
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/K6ZRG4KB?sharingId=A3E9B970BEA8AEE
+4. Introduction to GitHub Copilot
+https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/D9VZVFSJ?sharingId=A3E9B970BEA8AEE
