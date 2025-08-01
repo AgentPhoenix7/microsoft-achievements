@@ -6,3 +6,5 @@ https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/H75EX248?shari
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/K6ZRG4KB?sharingId=A3E9B970BEA8AEE
 4. Introduction to GitHub Copilot
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/D9VZVFSJ?sharingId=A3E9B970BEA8AEE
+5. Code with GitHub Codespaces
+https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/7K88CWWZ?sharingId=A3E9B970BEA8AEE
