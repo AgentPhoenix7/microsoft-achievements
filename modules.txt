@@ -8,3 +8,5 @@ https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/K6ZRG4KB?shari
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/D9VZVFSJ?sharingId=A3E9B970BEA8AEE
 5. Code with GitHub Codespaces
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/7K88CWWZ?sharingId=A3E9B970BEA8AEE
+6. Manage your work with GitHub Projects
+https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/3AS5BR2H?sharingId=A3E9B970BEA8AEE
