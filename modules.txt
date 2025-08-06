@@ -14,3 +14,5 @@ https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/3AS5BR2H?shari
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/H756X568?sharingId=A3E9B970BEA8AEE
 8. Contribute to an open-source project on GitHub
 https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/D9V4LU2J?sharingId=A3E9B970BEA8AEE
+9. Configure code scanning on GitHub
+https://learn.microsoft.com/api/achievements/share/en-us/agntdrgn/CXJ8TXM9?sharingId=A3E9B970BEA8AEE
